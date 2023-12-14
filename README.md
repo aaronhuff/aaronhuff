@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aaronhuff
-- 👀 I’m interested in Python, Rust, Solana, Ansible, Bash
+- 👀 I’m a networking automation engineer and Python developer
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Ansible Cisco or Versa Networking modules
 - 📫 Email me at aaron.t.huff@gmail.com to reach me
 
 <!---
